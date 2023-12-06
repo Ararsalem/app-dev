@@ -10,10 +10,10 @@ One Piece (stylized in all caps) is a fantasy adventure television series develo
 
 > To be the King of the Pirates.
 
----
+```
 {
 "firstName": "Eiichiro",
 "lastName": "Oda",
 }
----
+```
 |
